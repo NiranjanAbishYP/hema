@@ -1,0 +1,6 @@
+projectKey=com:SpringSecurityAnnotation
+serverUrl=http://localhost:9000
+serverVersion=7.5.0.20543
+dashboardUrl=http://localhost:9000/dashboard?id=com%3ASpringSecurityAnnotation
+ceTaskId=AW7K5dtllqUnromoF5Yu
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AW7K5dtllqUnromoF5Yu
